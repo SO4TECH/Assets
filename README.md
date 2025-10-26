@@ -1,7 +1,7 @@
 # Assets
 This repository serves as a central hub for storing, managing, and versioning digital assets used across our projects. It includes a structured collection of multimedia files, design resources, documentation, and data files essential for digital operations and creative development.
-Purpose
 
+Purpose
 To provide a secure and organized repository for storing, sharing, and managing:
 
 Digital media assets (graphics, audio, video)
@@ -20,7 +20,8 @@ Legal and rights-to-use documentation (licenses, contributor agreements)
 
 🪙 Smart Contracts: Verified Solidity or Vyper source files, ABI, deployment scripts
 
-⚖️ Legal & Licensing:
+
+ Legal & Licensing:
 
 LICENSE.md — rights-to-use, redistribution, and modification terms
 
@@ -28,7 +29,7 @@ CONTRACTS.md — outlines ownership and permissible use of smart contracts
 
 RIGHTS.md — details intellectual property (IP) ownership and contributor agreements
 
-🧩 Features
+Features
 
 🔐 Version-controlled asset management with Git transparency
 
@@ -40,7 +41,7 @@ RIGHTS.md — details intellectual property (IP) ownership and contributor agree
 
 🤝 Collaborative workflow for developers, designers, and partners
 
-📜 Licensing & Rights
+Licensing & Rights
 
 All assets, code, and documents in this repository are protected under the terms specified in:
 
@@ -52,7 +53,8 @@ RIGHTS.md – describes how contributors retain or transfer ownership of created
 
 Users and contributors must agree to these terms before using, modifying, or redistributing any materials in this repository.
 
-⚙️ Usage
+
+ Usage
 
 Clone or fork the repository:
 
@@ -63,7 +65,8 @@ Review and comply with the license terms.
 
 Use, edit, or integrate assets according to the guidelines in /docs and /contracts.
 
-🧾 Contribution Guidelines
+
+ Contribution Guidelines
 
 Submit changes via pull requests.
 
